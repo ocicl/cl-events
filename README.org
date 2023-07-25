@@ -1,0 +1,10 @@
+* cl-events
+
+Events (Hooks) for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/deadtrickster/cl-events.git   |
+| commit  | 2fdec2d  |
+| systems | cl-events |
+|---------+-------------------------------------------|
+
